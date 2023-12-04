@@ -11,15 +11,15 @@ Run file Viewer_main.java with JDK 1.8 or older version.
 <br>
 
 *Image 1: This app has a basic command line interface.*
-![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/9b1a7fd5dad01a90cdc61ae24cc97f6faeb47141/img/ui.png)
+![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/main/img/ui.png)
 <br>
 
 *Image 2: Displaying the result of point-cloud, with number of points.*
-![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/9b1a7fd5dad01a90cdc61ae24cc97f6faeb47141/img/3.png)
+![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/main/img/3.png)
 <br>
 
 *Image 3: Displaying the result of wireframe with visble edges.*
-![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/9b1a7fd5dad01a90cdc61ae24cc97f6faeb47141/img/22.png)
+![Image text](https://github.com/Joe-997/3D-Mesh-Viewer/blob/main/img/22.png)
 <br>
 
 *Image 4: Displaying the final result of 3D models.*
