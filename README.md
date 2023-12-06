@@ -1,5 +1,5 @@
 # 3D-Model-Viewer
-# 3Dモデルを展示できるアプリ
+# 3Dモデルを展示するアプリ
 
 3D Model files can be viewed with this viewer.
 -Mesh
